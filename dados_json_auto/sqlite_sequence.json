@@ -1,0 +1,18 @@
+[
+  {
+    "name": "funcionarios",
+    "seq": 50
+  },
+  {
+    "name": "produtos",
+    "seq": 100
+  },
+  {
+    "name": "clientes",
+    "seq": 200
+  },
+  {
+    "name": "vendas",
+    "seq": 500
+  }
+]

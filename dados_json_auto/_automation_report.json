@@ -1,0 +1,13 @@
+{
+  "last_check": "2025-07-25T17:50:45.179039",
+  "database_file": "empresa.db",
+  "json_directory": "dados_json_auto",
+  "table_counts": {
+    "funcionarios": 50,
+    "sqlite_sequence": 4,
+    "produtos": 105,
+    "vendas": 500,
+    "clientes": 205
+  },
+  "total_records": 864
+}

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-07-25T17:50:33.082806",
+  "table": "sqlite_sequence",
+  "total_records": 4,
+  "data": [
+    {
+      "name": "funcionarios",
+      "seq": 50
+    },
+    {
+      "name": "produtos",
+      "seq": 100
+    },
+    {
+      "name": "clientes",
+      "seq": 200
+    },
+    {
+      "name": "vendas",
+      "seq": 500
+    }
+  ]
+}
