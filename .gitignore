@@ -1,4 +1,4 @@
-.__pycache__/
+*.__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
@@ -6,3 +6,7 @@
 *.dados_json_auto
 *.log
 *.sqlite3
+*.db
+*.db-journal
+*.csv
+*.tsv
