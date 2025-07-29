@@ -1,3 +1,8 @@
 .__pycache__/
 *.py[cod]
 *.pyo
+*.pyd
+*.pyo
+*.dados_json_auto
+*.log
+*.sqlite3
